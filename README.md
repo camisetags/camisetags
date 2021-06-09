@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a computer engineer with emphasis on software engineering, passionate about software development, always aiming to satisfy both my personal and professional growth. I've worked with Ruby, Python, Node.js, Typescript, Golang and PHP to develop web, REST and GraphQL APIs applications. I am also interested in development with languages like Elixir, Rust, Java and all the new technologies in the market.
+I'm a computer engineer specializing in software engineering, passionate about software development, always aiming to satisfy my personal and professional growth. I'm focused on Typescript, Node.js, Golang, and Python. I've also worked with web development, in which I worked with Ruby and PHP. I have extensive experience working with REST and GraphQL APIs applications. I'm also interested in languages such as Elixir, Rust, Java, and all the new technologies in the market. Despite all back-end experience, I also spent a good time in the front-end working with React applications in the last years.
 
 - 🔭 I’m currently working on @winnin.
 - 🌱 I’m currently learning typescript and DDD.
